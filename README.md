@@ -14,7 +14,7 @@ Added some plugin configuration options:
 ##The new button in tree menu
 ![treebutton](https://raw.githubusercontent.com/Nicola1971/TreeElementsButton-Plugin/master/button.jpg)
 
-##Button in the tree menu with awesomefonts
+##Button with awesomefonts
 ![awesome treebutton](https://raw.githubusercontent.com/Nicola1971/TreeElementsButton-Plugin/master/awesome-button.jpg)
 
 ##Popup window
