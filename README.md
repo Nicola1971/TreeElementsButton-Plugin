@@ -11,7 +11,7 @@ Added some plugin configuration options:
 * Awesome Fonts hover color: default value "FFFFFF"
 * 
 
-##The new button in the tree menu
+##The new button in tree menu
 ![treebutton](https://raw.githubusercontent.com/Nicola1971/TreeElementsButton-Plugin/master/button.jpg)
 
 ##Button in the tree menu with awesomefonts
