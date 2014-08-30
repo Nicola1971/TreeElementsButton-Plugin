@@ -1,7 +1,7 @@
 TreeElementsButton-Plugin
 =========================
 
-This Plugin add into **MODX Evolution* a new **treebutton** to open elements in a popup, like the tree button in **Modx Evo Custom** by dmi3yy (https://github.com/dmi3yy/modx.evo.custom)
+This Plugin add into **MODX Evolution** a new **treebutton** to open elements in a popup, like the tree button in **Modx Evo Custom** by dmi3yy (https://github.com/dmi3yy/modx.evo.custom)
 
 Added some plugin configuration options:
 
