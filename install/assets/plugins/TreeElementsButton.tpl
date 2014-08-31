@@ -28,7 +28,7 @@ $PluginPath = isset($PluginPath) ? $PluginPath : '../assets/plugins/treeelementb
 $TargetWindow = isset($TargetWindow) ? $TargetWindow : 'popup';
 $AwesomeFonts = isset($AwesomeFonts) ? $AwesomeFonts : 'no';
 $AwesomeFontsHoverColor = isset($AwesomeFontsHoverColor) ? $AwesomeFontsHoverColor : 'FFFFFF';
-$AwesomeElementsFontsIcon = isset($AwesomeElementsFontsIcon) ? $AwesomeElementsFontsIcon : 'fa-list';
+$AwesomeElementsFontsIcon = isset($AwesomeElementsFontsIcon) ? $AwesomeElementsFontsIcon : 'fa-list-alt';
 
 //button icons and links
 $ElementsButtonIconPopup = isset($ElementsButtonIconPopup) ? $ElementsButtonIconPopup : '<a class="TrbuttonElements treeButton" onclick="window.open(\'index.php?a=76\',\'Elements\',\'width=800,height=600,top=\'+((screen.height-600)/2)+\',left=\'+((screen.width-800)/2)+\',toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no\')"><img src="'.$PluginPath.'images/elements-icon.gif" /></a>';
