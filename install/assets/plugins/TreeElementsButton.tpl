@@ -37,7 +37,7 @@ $ElementsButtonAwesomePopup = isset($ElementsButtonAwesomePopup) ? $ElementsButt
 
 $ElementsButtonIconBlank = isset($ElementsButtonIconBlank) ? $ElementsButtonIconBlank : '<a class="TrbuttonElements treeButton" href="index.php?a=76" alt="elements" target="_blank"><img src="'.$PluginPath.'images/elements-icon.gif" /></a>';
 
-$ElementsButtonAwesomeBlank = isset($ElementsButtonAwesomeBlank) ? $ElementsButtonAwesomeBlank : '<a class="TrbuttonElements" href="index.php?a=76" alt="elements" target="_blank"><i class="fa '.$AwesomeFontsIcon.' fa-lg"></i></a>';
+$ElementsButtonAwesomeBlank = isset($ElementsButtonAwesomeBlank) ? $ElementsButtonAwesomeBlank : '<a class="TrbuttonElements" href="index.php?a=76" alt="elements" target="_blank"><i class="fa '.$AwesomeElementsFontsIcon.' fa-lg"></i></a>';
 //styles
 $iconstyle = '<style>
 	.TrbuttonElements {
