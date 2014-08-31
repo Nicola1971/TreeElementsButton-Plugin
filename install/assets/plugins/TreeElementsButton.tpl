@@ -2,7 +2,7 @@
 /**
  * TreeElementsButton
  *
- * Add a new treebutton to open elements in a popup or black page
+ * Add a new treebutton to open elements in a popup or blank page
  *
  * @author    Nicola Lambathakis
  * @category    plugin
@@ -17,7 +17,7 @@
 /**
  * TreeElementsButton RC 2.0
  * author: Nicola Lambathakis http://www.tattoocms.it
- * Add a new treebutton to open elements in a popup or black page
+ * Add a new treebutton to open elements in a popup or blank page
  * Event: OnManagerTreePrerender
  * Configuration: &TargetWindow=Target Window:;list;popup,blank;popup &AwesomeFonts=Use Awesome Fonts icon:;list;no,yes;no &AwesomeFontsHoverColor=Awesome Fonts hover color:;string;FFFFFF &AwesomeElementsFontsIcon=Awesome Fonts icon:;string;fa-list-alt
  */
