@@ -23,7 +23,7 @@
  */
 
 GLOBAL $manager_theme;
-$PluginPath = isset($PluginPath) ? $PluginPath : '../assets/plugins/threetreebuttons/';
+$PluginPath = isset($PluginPath) ? $PluginPath : '../assets/plugins/treeelementbutton/';
 
 $TargetWindow = isset($TargetWindow) ? $TargetWindow : 'popup';
 $AwesomeFonts = isset($AwesomeFonts) ? $AwesomeFonts : 'no';
