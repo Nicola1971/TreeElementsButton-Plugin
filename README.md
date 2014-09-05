@@ -9,7 +9,6 @@ Added some plugin configuration options:
 * Use Awesome Fonts: For Manager themes that includes awesome fonts, you can replace the default icon with an awesome font of your choice
 * Awesome Fonts icon: default value "fa-list-alt"
 * Awesome Fonts hover color: default value "FFFFFF"
-* 
 
 ##The new button in tree menu
 ![treebutton](https://raw.githubusercontent.com/Nicola1971/TreeElementsButton-Plugin/master/button.jpg)
@@ -19,4 +18,11 @@ Added some plugin configuration options:
 
 ##Popup window
 ![pop window](https://raw.githubusercontent.com/Nicola1971/TreeElementsButton-Plugin/master/popup-screen.jpg)
+
+
+# Updates:
+
+##RC 2.1
+
+* moved code in plugin directory
 
